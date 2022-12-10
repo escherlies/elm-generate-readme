@@ -1,0 +1,5 @@
+newlines-between-decls: 2
+respectful: false
+record-brace-space: true
+indent-wheres: true
+indentation: 2
