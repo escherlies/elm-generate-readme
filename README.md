@@ -52,3 +52,10 @@ elmCode =
   1. Compile the `Readme.elm` to make sure the examples actually work.
   2. No need to copy code from examples anymore.
   3. One source of truth
+
+# Install/Build from source
+
+1. Install `cabal` via [`ghcup`](https://www.haskell.org/ghcup/) (3.6.2.0)
+2. Clone this repository
+3. `cd` into the repo
+4. Run `cabal install`
